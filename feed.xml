@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="https://nitishsaikommaraju.ml/feed.xml" rel="self" type="application/atom+xml" /><link href="https://nitishsaikommaraju.ml/" rel="alternate" type="text/html" /><updated>2020-02-09T20:18:42+05:30</updated><id>https://nitishsaikommaraju.ml/feed.xml</id><title type="html">Nitish sai Kommaraju</title><subtitle>Developer 👨‍💻 · Programmer 💻 · Hackclub Lead 🚩 · #INDIA 🇮🇳</subtitle><entry><title type="html">🐅 Geo Tagging Flutter</title><link href="https://nitishsaikommaraju.ml/geotagging/" rel="alternate" type="text/html" title="🐅 Geo Tagging Flutter" /><published>2020-01-17T21:00:00+05:30</published><updated>2020-01-17T21:00:00+05:30</updated><id>https://nitishsaikommaraju.ml/geotagging</id><content type="html" xml:base="https://nitishsaikommaraju.ml/geotagging/">&lt;p&gt;&lt;strong&gt;&lt;em&gt;Source code is now available on &lt;a href=&quot;https://github.com/nitishsai9/Geo_Tagging&quot; target=&quot;_blank&quot;&gt;Github&lt;/a&gt;. Check it out!&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;introduction&quot;&gt;Introduction&lt;/h1&gt;
+
+&lt;p&gt;This is a Simple App which user can save wild life by reporting animal or plants poaching to the authority.&lt;/p&gt;
+&lt;h1 id=&quot;what-i-have-learnt&quot;&gt;What i have learnt&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;How to link firestorage with firestore.&lt;/li&gt;
+  &lt;li&gt;Build complex flutter app.&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>nitish</name></author><category term="project" /><category term="Flutter" /><category term="Dart" /><category term="Firebase" /><category term="Android" /><summary type="html">Source code is now available on Github. Check it out!</summary></entry><entry><title type="html">🏮 Bits2Bytes Hack Club Site</title><link href="https://nitishsaikommaraju.ml/b2b/" rel="alternate" type="text/html" title="🏮 Bits2Bytes Hack Club Site" /><published>2019-11-17T21:00:00+05:30</published><updated>2019-11-17T21:00:00+05:30</updated><id>https://nitishsaikommaraju.ml/b2b</id><content type="html" xml:base="https://nitishsaikommaraju.ml/b2b/">&lt;p&gt;&lt;strong&gt;&lt;em&gt;Source code is now available on &lt;a href=&quot;b2b.hackclub.com&quot; target=&quot;_blank&quot;&gt;Github&lt;/a&gt;. Check it out!&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;introduction&quot;&gt;Introduction&lt;/h1&gt;
+
+&lt;p&gt;Hack Club is a global network of programming clubs where members learn to code through tinkering and building projects. I have Built this web app using bootstrap4 and with rich and minimal ui with Dark and light Modes the dark mode currently limited to desktop &amp;lt;3.&lt;/p&gt;</content><author><name>nitish</name></author><category term="project" /><category term="Bootstrap" /><category term="Html5" /><category term="css3" /><category term="responsive" /><summary type="html">Source code is now available on Github. Check it out!</summary></entry><entry><title type="html">️🏴 SECARMY CTF 2.0</title><link href="https://nitishsaikommaraju.ml/secarmy/" rel="alternate" type="text/html" title="️🏴 SECARMY CTF 2.0" /><published>2019-08-17T23:00:00+05:30</published><updated>2019-08-17T23:00:00+05:30</updated><id>https://nitishsaikommaraju.ml/secarmy</id><content type="html" xml:base="https://nitishsaikommaraju.ml/secarmy/">&lt;h1 id=&quot;netcat-&quot;&gt;Netcat ‘(^.^)’&lt;/h1&gt;
+&lt;p&gt;This a unofficial walkthrough of Sec_Army CTF 2.0. This is How it started yes that godamn smile! Weclome To SecArmy CTF Go grab your flag:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://nitishsaikommaraju.ml/assets/images/screen.png&quot; alt=&quot;Photo by redditierende-waffel on Reddit&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;All you need to do is fire up your terminal.I am using kali linux you can use any distro or wsl they are few available in store lol sticking to the point. You just need to type the command and lazy people just copy paste the command they provided and hit enter the magic starts . Yes you got your first flag&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://nitishsaikommaraju.ml/assets/images/out.png&quot; alt=&quot;Photo by redditierende-waffel on Reddit&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Happy Hacking 😌&lt;/p&gt;
+
+&lt;div class=&quot;breaker&quot;&gt;&lt;/div&gt;
+&lt;p&gt;&lt;a id=&quot;2&quot;&gt;&lt;/a&gt;&lt;/p&gt;</content><author><name>nitish</name></author><category term="blog" /><category term="CTF" /><category term="secarmy" /><category term="Hacking" /><summary type="html">Netcat ‘(^.^)’ This a unofficial walkthrough of Sec_Army CTF 2.0. This is How it started yes that godamn smile! Weclome To SecArmy CTF Go grab your flag:</summary></entry><entry><title type="html">🖤 Vignite Hackthon webApp</title><link href="https://nitishsaikommaraju.ml/vignite/" rel="alternate" type="text/html" title="🖤 Vignite Hackthon webApp" /><published>2019-07-27T21:00:00+05:30</published><updated>2019-07-27T21:00:00+05:30</updated><id>https://nitishsaikommaraju.ml/vignite</id><content type="html" xml:base="https://nitishsaikommaraju.ml/vignite/">&lt;p&gt;&lt;strong&gt;&lt;em&gt;Source code is now available on &lt;a href=&quot;https://github.com/nitishsai9/Vignite_EventPage&quot; target=&quot;_blank&quot;&gt;Github&lt;/a&gt;. Check it out!&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;introduction&quot;&gt;Introduction&lt;/h1&gt;
+
+&lt;p&gt;A 24hrs intense, fun-filled, rewarding convergence of programmers, designers and developers to build something amazing. I have Built this web app using Materializecss3 and with rich and minimal ui.
+“Vignite is a 24hr Hackthon hosted by vignan institute of information technology.”&lt;/p&gt;</content><author><name>nitish</name></author><category term="project" /><category term="Materializecss3" /><category term="Html5" /><category term="css3" /><category term="responsive" /><summary type="html">Source code is now available on Github. Check it out!</summary></entry><entry><title type="html">🏏 Base64_encrypt_decrypt</title><link href="https://nitishsaikommaraju.ml/dartenc/" rel="alternate" type="text/html" title="🏏 Base64_encrypt_decrypt" /><published>2019-06-20T21:00:00+05:30</published><updated>2019-06-20T21:00:00+05:30</updated><id>https://nitishsaikommaraju.ml/dartenc</id><content type="html" xml:base="https://nitishsaikommaraju.ml/dartenc/">&lt;p&gt;&lt;strong&gt;&lt;em&gt;Source code is now available on &lt;a href=&quot;https://github.com/nitishsai9/Base64_encrypt_decrypt&quot; target=&quot;_blank&quot;&gt;Github&lt;/a&gt;. Check it out!&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;introduction&quot;&gt;Introduction&lt;/h1&gt;
+
+&lt;p&gt;This is a simple flutter App which is built while playing a ctf i had to decrypt the base64 encryption couple of times.&lt;/p&gt;
+
+&lt;h1 id=&quot;what-i-have-learnt&quot;&gt;What i have learnt&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Base64 algorithm.&lt;/li&gt;
+  &lt;li&gt;Solve real life problem.&lt;/li&gt;
+  &lt;li&gt;text controller and text widget.&lt;/li&gt;
+  &lt;li&gt;Handle forms in flutter.&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>nitish</name></author><category term="project" /><category term="Base64" /><category term="Encrypt" /><category term="Decrypt" /><category term="Flutter" /><category term="Android" /><category term="Dart" /><summary type="html">Source code is now available on Github. Check it out!</summary></entry><entry><title type="html">🥇 Flutter Quizz App</title><link href="https://nitishsaikommaraju.ml/quizzer/" rel="alternate" type="text/html" title="🥇 Flutter Quizz App" /><published>2019-06-13T23:00:00+05:30</published><updated>2019-06-13T23:00:00+05:30</updated><id>https://nitishsaikommaraju.ml/quizzer</id><content type="html" xml:base="https://nitishsaikommaraju.ml/quizzer/">&lt;p&gt;&lt;strong&gt;&lt;em&gt;Source code is now available on &lt;a href=&quot;https://github.com/nitishsai9/Quizzer&quot; target=&quot;_blank&quot;&gt;Github&lt;/a&gt;. Check it out!&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;introduction&quot;&gt;Introduction&lt;/h1&gt;
+&lt;p&gt;Flutter is an open-source UI software development kit created by Google. It is used to develop applications for Android, iOS, Windows, Mac, Linux, Google Fuchsia and the web. I Have Built this app which has Scoreboard and Restart Feature which has Right or wrong screen and with rich Ui Feel Free to fork the site and add a star if u like it.&lt;/p&gt;</content><author><name>nitish</name></author><category term="project" /><category term="Quizz" /><category term="Android" /><category term="Flutter" /><category term="Dart" /><summary type="html">Source code is now available on Github. Check it out!</summary></entry><entry><title type="html">🎲 Dice App</title><link href="https://nitishsaikommaraju.ml/dice/" rel="alternate" type="text/html" title="🎲 Dice App" /><published>2019-06-10T18:00:00+05:30</published><updated>2019-06-10T18:00:00+05:30</updated><id>https://nitishsaikommaraju.ml/dice</id><content type="html" xml:base="https://nitishsaikommaraju.ml/dice/">&lt;p&gt;&lt;strong&gt;&lt;em&gt;Source code is now available on &lt;a href=&quot;https://github.com/nitishsai9/DIce-Roll&quot; target=&quot;_blank&quot;&gt;Github&lt;/a&gt;. Check it out!&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;introduction&quot;&gt;Introduction&lt;/h1&gt;
+&lt;p&gt;This app is a fun which i have built as we lost our dice which we used to play snake and ladder.&lt;/p&gt;
+
+&lt;h1 id=&quot;what-i-have-learnt&quot;&gt;What i have learnt&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;How to Build Simple ui.&lt;/li&gt;
+  &lt;li&gt;Solve a Problem faced.&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>nitish</name></author><category term="project" /><category term="Android" /><category term="flutter" /><category term="Dart" /><category term="App" /><summary type="html">Source code is now available on Github. Check it out!</summary></entry><entry><title type="html">️📱 What is Project Treble</title><link href="https://nitishsaikommaraju.ml/treble/" rel="alternate" type="text/html" title="️📱 What is Project Treble" /><published>2019-03-30T23:00:00+05:30</published><updated>2019-03-30T23:00:00+05:30</updated><id>https://nitishsaikommaraju.ml/treble</id><content type="html" xml:base="https://nitishsaikommaraju.ml/treble/">&lt;p&gt;&lt;img src=&quot;https://nitishsaikommaraju.ml/assets/images/loacalhost.png&quot; alt=&quot;Photo by redditierende-waffel on Reddit&quot; /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;what-is-a-new-flavor-of-android&quot;&gt;what is a new flavor of Android?&lt;/h1&gt;
+&lt;p&gt;A new flavor is updating of an existing version of android os which brings quite a few exciting features it might be UI enhancements security fixes or additional features.&lt;/p&gt;
+
+&lt;div class=&quot;breaker&quot;&gt;&lt;/div&gt;
+&lt;p&gt;&lt;a id=&quot;2&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;what-is-project-treble&quot;&gt;what is project Treble?&lt;/h1&gt;
+&lt;p&gt;Project Treble is a massive restructuring of the Android architecture making the low-level code separate from the main system framework that faces the end users.&lt;/p&gt;
+
+&lt;p&gt;Past updates to the OS have required gadget creators to embrace the expensive, code-substantial assignment of totally retooling it, as per Google. This is likely the reason for postponement for most producers, and why some appear to take a position against refreshing by any means.&lt;/p&gt;
+
+&lt;p&gt;In simple words, Project Treble makes it easy for smartphone manufacturers to keep up with Google’s software update track and keep updating to latest security patches and firmware.&lt;/p&gt;
+&lt;div class=&quot;breaker&quot;&gt;&lt;/div&gt;
+&lt;p&gt;&lt;a id=&quot;3&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;why-project-treble&quot;&gt;why project Treble?&lt;/h1&gt;
+&lt;p&gt;Android fragmentation: “ Android fragmentation refers to a concern over the alarming number of different available Android operating system (OS) versions in the market. The main issue is potentially reduced interoperability between devices of applications coded using the Android Software Development Kit (Android SDK).” Over the past several years, Android upgrades have devolved into a big, hot mess : Aside from Google itself, with its Pixel line of phones, but the truckloads of OEMs releasing the phones were unable or provides consistently timely and reliable software updates was too adamant to release software updates for the same. And it’s the users who suffer, getting stuck with dated software that lacks not only features and interface improvements from newer releases but also privacy and security enhancements and a variety of other under-the-hood improvements that only OS updates can provide.&lt;/p&gt;
+
+&lt;div class=&quot;breaker&quot;&gt;&lt;/div&gt;
+&lt;p&gt;&lt;a id=&quot;4&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;did-treble-solve-the-fragmentation-&quot;&gt;Did Treble solve the fragmentation ?&lt;/h1&gt;
+
+&lt;p&gt;Android Q is around the corner but to my surprise Google has released the revised statistics for Android distribution and the latest version, Android 9.0 Pie is still nowhere in the list. Notably Google announced Android 9.0 Pie on August 6, 2018, and began rolling it out to Pixel phones the same day. These include the Google Pixel, Pixel XL, Pixel 2, and Pixel 2 XL. following Essential Phone, One plus 6 and Nokia 7 plus. While the latest Android version is absent in the revised statistics for the month, even the previous two revisions that were released last month did not show any share of Android Pie.&lt;/p&gt;
+
+&lt;div class=&quot;breaker&quot;&gt;&lt;/div&gt;
+&lt;p&gt;&lt;a id=&quot;4&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;essential-pie-update&quot;&gt;Essential Pie update:&lt;/h1&gt;
+
+&lt;p&gt;August 6, 2018 — Essential has always been extremely fast at issuing Android updates, and this release is no different. Minutes after Google announced Pie, Essential already started rolling out the update to the Essential Phone. Some of them actually received the update on Essential Phones quicker than Pixels. Not bad! Sony Pie update: October 12, 2018 — Sony is rolling out the stable version of Android 9.0 Pie to the Xperia XZ2 and XZ2 Compact. The update comes in just over 1GB in size and includes the latest October 2018 security patch. Also arriving in U.K. HTC Pie update August 10, 2018 — HTC took to Twitter to announce that it’s bringing Android Pie to four of its smartphones: U12 Plus, U11 Plus, U11, and the Android One variant of the U11 Life. Unfortunately, there’s no word on when the updates will be available. HTC said this will be announced in “due course.” Now, before you drown yourself in a river of virtual tears, few big brands like Motorola user still waiting for oreo.&lt;/p&gt;
+
+&lt;div class=&quot;breaker&quot;&gt;&lt;/div&gt;
+&lt;p&gt;&lt;a id=&quot;4&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;final-verdict&quot;&gt;Final Verdict&lt;/h1&gt;
+
+&lt;p&gt;“An exertion like Treble can’t fill in as a fix for OEM’s that simply couldn’t care less”
+I reached out to some ROM developers to ask about Treble and its impact on their workflow. you wouldn’t believe that Treble really doesn’t add much more work to a dev’s already full plate.
+So, finally, i want to conclude the treble is a just like my unfinished projects they only just start well.&lt;/p&gt;
+
+&lt;div class=&quot;breaker&quot;&gt;&lt;/div&gt;
+&lt;p&gt;&lt;a id=&quot;4&quot;&gt;&lt;/a&gt;&lt;/p&gt;</content><author><name>nitish</name></author><category term="blog" /><category term="android" /><category term="treble" /><summary type="html"></summary></entry><entry><title type="html">🧮 Caliculator Using dart and Flutter</title><link href="https://nitishsaikommaraju.ml/caliculator/" rel="alternate" type="text/html" title="🧮 Caliculator Using dart and Flutter" /><published>2019-01-05T12:00:00+05:30</published><updated>2019-01-05T12:00:00+05:30</updated><id>https://nitishsaikommaraju.ml/caliculator</id><content type="html" xml:base="https://nitishsaikommaraju.ml/caliculator/">&lt;p&gt;&lt;strong&gt;&lt;em&gt;Source code is now available on &lt;a href=&quot;https://github.com/nitishsai9/catchme&quot; target=&quot;_blank&quot;&gt;Github&lt;/a&gt;. Check it out!&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;introduction&quot;&gt;Introduction&lt;/h1&gt;
+&lt;p&gt;This is my first app in flutter that i build as a part of flutter crash course.&lt;/p&gt;
+
+&lt;h1 id=&quot;what-i-have-learnt&quot;&gt;What i have learnt&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;What is flutter.&lt;/li&gt;
+  &lt;li&gt;what is dart.&lt;/li&gt;
+  &lt;li&gt;How to build apk using flutter and dart.&lt;/li&gt;
+  &lt;li&gt;How to use math library in dart and widgets in flutter.&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>nitish</name></author><category term="project" /><category term="calculator" /><category term="Dart" /><category term="Flutter" /><category term="Math" /><summary type="html">Source code is now available on Github. Check it out!</summary></entry><entry><title type="html">☂️ weather Web App</title><link href="https://nitishsaikommaraju.ml/checkweather/" rel="alternate" type="text/html" title="☂️ weather Web App" /><published>2019-01-01T11:00:00+05:30</published><updated>2019-01-01T11:00:00+05:30</updated><id>https://nitishsaikommaraju.ml/checkweather</id><content type="html" xml:base="https://nitishsaikommaraju.ml/checkweather/">&lt;p&gt;&lt;strong&gt;&lt;em&gt;Source code is now available on &lt;a href=&quot;https://github.com/nitishsai9/checkweather&quot; target=&quot;_blank&quot;&gt;Github&lt;/a&gt;. Check it out!&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;introduction&quot;&gt;Introduction&lt;/h1&gt;
+&lt;p&gt;simple weather base webapp based on your location which uses open weather api.&lt;/p&gt;
+
+&lt;h1 id=&quot;what-i-have-learnt&quot;&gt;What i have learnt&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;How to use js to parse json objects.&lt;/li&gt;
+  &lt;li&gt;dom functions.&lt;/li&gt;
+  &lt;li&gt;How to use open weather Api.&lt;/li&gt;
+  &lt;li&gt;how to deploy sites in github pages.&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>nitish</name></author><category term="project" /><category term="API" /><category term="Weather" /><category term="Web" /><category term="Js" /><category term="Html" /><summary type="html">Source code is now available on Github. Check it out!</summary></entry></feed>
